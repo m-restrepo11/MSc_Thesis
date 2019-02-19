@@ -1,0 +1,153 @@
+\begin{thebibliography}{10}
+
+\bibitem{Schwinger1962}
+J.~Schwinger.
+\newblock Gauge invariance and mass. {II}.
+\newblock {\em Physical Review}, 128(5):2425--2429, Dec 1962.
+
+\bibitem{Lowenstein1971}
+J.~H. Lowenstein and J.~A. Swieca.
+\newblock {Quantum electrodynamics in two dimensions}.
+\newblock {\em Annals of Physics}, 68(1):172--195, 1971.
+
+\bibitem{Bertlman}
+C.~Adam, R.~A. Bertlmann, and P.~Hofer.
+\newblock {Overview on the anomaly and Schwinger term in two-dimensional QED}.
+\newblock {\em La Rivista Del Nuovo Cimento Series 3}, 16(8):1--52, 1993.
+
+\bibitem{abdalla}
+E.~Abdalla, M.~C.~B. Abdalla, and K.~D. Rothe.
+\newblock {\em Non-perturbative methods in 2 dimensional quantum field theory}.
+\newblock World Scientific, Singapore River Edge, NJ, 2001.
+
+\bibitem{Coleman1976}
+S.~Coleman.
+\newblock {More about the massive Schwinger model}.
+\newblock {\em Annals of Physics}, 101(1):239--267, sep 1976.
+
+\bibitem{Bell1969}
+J.~S. Bell and R.~Jackiw.
+\newblock A {PCAC} puzzle: {$\pi_0\rightarrow\gamma\gamma$} in the
+  {$\sigma$}-model.
+\newblock {\em Il Nuovo Cimento A}, 60(1):47--61, mar 1969.
+
+\bibitem{Adler}
+S.~L. Adler.
+\newblock Axial-vector vertex in spinor electrodynamics.
+\newblock {\em Phys. Rev.}, 177:2426--2438, Jan 1969.
+
+\bibitem{Schwartz}
+M.~D. Schwartz.
+\newblock {\em Quantum Field Theory and the Standard Model}.
+\newblock Cambridge University Press, 2013.
+
+\bibitem{Fujikawa1980}
+K.~Fujikawa.
+\newblock {Erratum: Path integral for gauge theories with fermions (Physical
+  Review D)}.
+\newblock {\em Physical Review D}, 22(6):1499, sep 1980.
+
+\bibitem{Atiyah1963}
+M.~F. Atiyah and I.~M. Singer.
+\newblock The index of elliptic operators on compact manifolds.
+\newblock {\em Bulletin of the American Mathematical Society}, 69(3):422--434,
+  may 1963.
+
+\bibitem{Sch1951}
+J.~Schwinger.
+\newblock On gauge invariance and vacuum polarization.
+\newblock {\em Phys. Rev.}, 82:664--679, Jun 1951.
+
+\bibitem{Heisenberg1928}
+W.~Heisenberg.
+\newblock {Zur Theorie des Ferromagnetismus}.
+\newblock {\em Zeitschrift f{\"{u}}r Physik}, 49(9):619--636, sep 1928.
+
+\bibitem{Bethe1931}
+H.~Bethe.
+\newblock Zur theorie der metalle.
+\newblock {\em Zeitschrift für Physik}, 71(3-4):205--226, mar 1931.
+
+\bibitem{Lieb1961407}
+E.~Lieb, T.~Schultz, and D.~Mattis.
+\newblock {Two soluble models of an antiferromagnetic chain}.
+\newblock {\em Annals of Physics}, 16(3):407--466, 1961.
+
+\bibitem{RUIJGROK1976336}
+T.~W. Ruijgrok and T.~Niemeijer.
+\newblock {The classical one-dimensional Heisenberg magnet in an external
+  magnetic field. Transfer matrix formalism as an application of
+  renormalization group theory “avant la lettre”}.
+\newblock {\em Physica A: Statistical Mechanics and its Applications},
+  84(2):336--349, 1976.
+
+\bibitem{BM1}
+E.~Barouch, Barry~M. McCoy, and M.~Dresden.
+\newblock Statistical mechanics of the $\mathrm{XY}$ model. i.
+\newblock {\em Phys. Rev. A}, 2:1075--1092, Sep 1970.
+
+\bibitem{BM2}
+E.~Barouch and B.~M. McCoy.
+\newblock Statistical mechanics of the $xy$ model. ii. spin-correlation
+  functions.
+\newblock {\em Phys. Rev. A}, 3:786--804, Feb 1971.
+
+\bibitem{vidal}
+G.~Vidal, J.~I. Latorre, E.~Rico, and A.~Kitaev.
+\newblock Entanglement in quantum critical phenomena.
+\newblock {\em Phys. Rev. Lett.}, 90:227902, Jun 2003.
+
+\bibitem{Bennett2000}
+C.~H. Bennett and D.~P. DiVincenzo.
+\newblock Quantum information and computation.
+\newblock {\em Nature}, 404(6775):247--255, mar 2000.
+
+\bibitem{Kogut1975}
+J.~B. Kogut and L.~Susskind.
+\newblock {Hamiltonian formulation of Wilson's lattice gauge theories}.
+\newblock {\em Physical Review D}, 11(2):395--408, 1975.
+
+\bibitem{Susskind1977}
+L.~Susskind.
+\newblock {Lattice fermions}.
+\newblock {\em Physical Review D}, 16(10):3031--3039, nov 1977.
+
+\bibitem{Banks}
+T.~Banks, L.~Susskind, and J.~Kogut.
+\newblock Strong-coupling calculations of lattice gauge theories: (1 +
+  1)-dimensional exercises.
+\newblock {\em Phys. Rev. D}, 13:1043--1053, Feb 1976.
+
+\bibitem{Byrnes2002}
+T.~M.~R. Byrnes, P.~Sriganesh, R.~J. Bursill, and C.~J. Hamer.
+\newblock {Density matrix renormalisation group approach to the massive
+  Schwinger model}.
+\newblock {\em Nuclear Physics B - Proceedings Supplements}, 109(1):202--206,
+  2002.
+
+\bibitem{Hamer1997}
+C.~J. Hamer, Z.~Weihong, and J.~Oitmaa.
+\newblock {Series expansions for the massive Schwinger model in Hamiltonian
+  lattice theory}.
+\newblock {\em Physical Review D - Particles, Fields, Gravitation and
+  Cosmology}, 1997.
+
+\bibitem{Weinberg2017}
+P.~Weinberg and M.~Bukov.
+\newblock {QuSpin: a Python Package for Dynamics and Exact Diagonalisation of
+  Quantum Many Body Systems. Part I: spin chains}.
+\newblock 2017.
+
+\bibitem{Weinberg2018}
+P.~Weinberg and M.~Bukov.
+\newblock {QuSpin: a Python Package for Dynamics and Exact Diagonalisation of
+  Quantum Many Body Systems. Part II: bosons, fermions and higher spins}.
+\newblock 2018.
+
+\bibitem{arpack}
+R.~B. Lehoucq, D.~C. Sorensen, and C.~Yang.
+\newblock {\em Arpack User's Guide: Solution of Large-Scale Eigenvalue Problems
+  With Implicityly Restorted Arnoldi Methods}.
+\newblock Society for Industrial and Applied, 1998.
+
+\end{thebibliography}

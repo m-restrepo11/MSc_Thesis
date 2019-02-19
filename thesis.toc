@@ -1,0 +1,43 @@
+\contentsline {chapter}{\numberline {1}The continuum Schwinger model}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Motivation and Introduction}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Lagrangian, Hamiltonian and equations of motion}{3}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}The Schwinger model in a Background electric field}{8}{subsection.1.2.1}
+\contentsline {section}{\numberline {1.3}Chiral anomaly in the path integral formalism}{11}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Path integrals and the Grassman Jacobian}{11}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Dirac operator mode regularization}{15}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Schwinger-Dyson equation for a gauge symmetry}{17}{subsection.1.3.3}
+\contentsline {section}{\numberline {1.4}Anomaly, index and topology}{20}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Zero-modes and index of the Dirac operator}{20}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Atiyah-Singer index theorem}{22}{subsection.1.4.2}
+\contentsline {section}{\numberline {1.5}Anomaly and the fermion spectrum}{23}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Schwinger model on a circle}{23}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Infrared and ultraviolet behavior}{27}{subsection.1.5.2}
+\contentsline {section}{\numberline {1.6}Comments and conclusion}{31}{section.1.6}
+\contentsline {chapter}{\numberline {2}Spin chains}{34}{chapter.2}
+\contentsline {section}{\numberline {2.1}Motivation and Introduction}{34}{section.2.1}
+\contentsline {section}{\numberline {2.2}The XY-model in a transverse field}{36}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}The ground state}{40}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}The Phase Diagram}{40}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}The XX-model}{42}{section.2.3}
+\contentsline {section}{\numberline {2.4}Comments and conclusion}{44}{section.2.4}
+\contentsline {chapter}{\numberline {3}The Schwinger model in a lattice}{46}{chapter.3}
+\contentsline {section}{\numberline {3.1}Motivation and Introduction}{46}{section.3.1}
+\contentsline {section}{\numberline {3.2}Lattice formulation}{47}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Spin Hamiltonians}{50}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Electric field operators and Hilbert space}{53}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}The background field in the lattice}{54}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Gauss law}{56}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}Effective mass and Coulomb interaction}{59}{section.3.3}
+\contentsline {section}{\numberline {3.4}Comment and conclusion}{63}{section.3.4}
+\contentsline {chapter}{\numberline {4}Simulations of the Schwinger model}{66}{chapter.4}
+\contentsline {section}{\numberline {4.1}Motivations and introduction}{66}{section.4.1}
+\contentsline {section}{\numberline {4.2}A comment on exact diagonalization}{67}{section.4.2}
+\contentsline {section}{\numberline {4.3}The free massless Schwinger model}{68}{section.4.3}
+\contentsline {section}{\numberline {4.4}The free massive Schwinger model}{71}{section.4.4}
+\contentsline {section}{\numberline {4.5}The interacting Schwinger Model}{76}{section.4.5}
+\contentsline {section}{\numberline {4.6}Quantum quenches in the Schwinger model}{81}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Quenches from the free model}{84}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Quenches between background fields}{85}{subsection.4.6.2}
+\contentsline {section}{\numberline {4.7}Comments and conclusion}{87}{section.4.7}
+\contentsline {chapter}{\numberline {5}Discussion and outlook}{90}{chapter.5}
+\contentsline {chapter}{References}{94}{chapter*.29}

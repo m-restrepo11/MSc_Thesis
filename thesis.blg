@@ -1,0 +1,16 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: chapters/chapter1.aux
+A level-1 auxiliary file: chapters/chapter2.aux
+A level-1 auxiliary file: chapters/chapter3.aux
+A level-1 auxiliary file: chapters/chapter4.aux
+A level-1 auxiliary file: chapters/chapter5.aux
+The style file: unsrt.bst
+A level-1 auxiliary file: endmatter/colophon.aux
+Database file #1: references.bib
+Repeated entry---line 309 of file references.bib
+ : @article{Kogut1975
+ :                   ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in Weinberg2017
+Warning--empty journal in Weinberg2018
+(There was 1 error message)

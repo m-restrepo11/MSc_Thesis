@@ -1,0 +1,30 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.2.1}{\ignorespaces Two distinct configurations for particle-antiparticle pairs in one spatial dimension.\relax }}{9}{figure.caption.4}
+\contentsline {figure}{\numberline {1.2.2}{\ignorespaces Plot of energy density as a function of $\mathcal {E}_0$.\relax }}{10}{figure.caption.5}
+\contentsline {figure}{\numberline {1.5.1}{\ignorespaces Fermion spectrum as function of $A_1$.\relax }}{26}{figure.caption.6}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.2.1}{\ignorespaces Phase diagram of the XY-model for ${"γ}$ and $g$ positive.\relax }}{41}{figure.caption.7}
+\contentsline {figure}{\numberline {2.3.1}{\ignorespaces $N=24$ XX-model spectrum for $g=1/2$ and $J=1$. The orange dots are filled Dirac sea states of the ground state.\relax }}{43}{figure.caption.8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.2.1}{\ignorespaces Lattice with open and periodic boundary condition.\relax }}{48}{figure.caption.9}
+\contentsline {figure}{\numberline {3.2.2}{\ignorespaces Lattice of $N=6$ spins with the values of electric field $L_n$ fixed by Gauss's law.\relax }}{57}{figure.caption.10}
+\contentsline {figure}{\numberline {3.3.1}{\ignorespaces Plot of effective mass term due to the background field $\mathcal {E}_0$ for $N=5$ and $N=25$.\relax }}{60}{figure.caption.11}
+\contentsline {figure}{\numberline {3.3.2}{\ignorespaces Plot of effective mass term, $m_{"ξ}$, for $N=5$ and $N=25$.\relax }}{61}{figure.caption.12}
+\contentsline {figure}{\numberline {3.3.3}{\ignorespaces Plot of Coulomb strength interaction $C_{nm}$ between spins in the lattice for $N=5$ and $N=25$.\relax }}{62}{figure.caption.13}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.3.1}{\ignorespaces Full spectrum of the Hamiltonian in real space. (A) Spectrum for $N=14$ taking batches of 8 eigenvalues to show the spectrum structure and avoid clutter. (B) Single particle excitation spectrum for $N=33$.\relax }}{69}{figure.caption.14}
+\contentsline {figure}{\numberline {4.3.2}{\ignorespaces Ground state energy per site for $N\in [4,24]$ for even and odd number of particles. The dashed black line is the result in the thermodynamic limit where $E_0/N=-1/{"π}$\relax }}{70}{figure.caption.15}
+\contentsline {figure}{\numberline {4.3.3}{\ignorespaces Plot of the ground state and the first two excited states energy densities versus the inverse of the number of sites squared with $N\in [4,22]$. Normalization of the energy density with $m$ is made to preserve the y scale. (A) Even number of particles. (B) Odd number of particles. A linear fit is made to determine numerically the ground state energy\relax }}{71}{figure.caption.16}
+\contentsline {figure}{\numberline {4.4.1}{\ignorespaces Plot of the spectrum in real space for different values of the mass taking batches of 5 eigenvalues. (A) $m=2$, (B) $m=4$, (C) $m=6$ and (D) $m=10$.\relax }}{72}{figure.caption.17}
+\contentsline {figure}{\numberline {4.4.2}{\ignorespaces Plot of the ground state and the first two excited states energy densities versus the inverse of the number of sites squared with $N\in [4,18]$ and $N$ even. Normalization of the energy density with $m$ is made to preserve the y scale. (A) $m=2$, (B) $m=4$, (C) $m=6$ and (D) $m=12$.\relax }}{73}{figure.caption.18}
+\contentsline {figure}{\numberline {4.4.3}{\ignorespaces Spectrum gap energy as a function of mass\relax }}{76}{figure.caption.19}
+\contentsline {figure}{\numberline {4.5.1}{\ignorespaces Plot of the ground state energy density for the massless interacting Schwinger model.\relax }}{77}{figure.caption.20}
+\contentsline {figure}{\numberline {4.5.2}{\ignorespaces Plot of the density of chiral condensate as a function of $q_e$, $q_e\in [0,25]$. (A) Massless case $m=0$. (B) Massive Case $m=2.0$.\relax }}{78}{figure.caption.21}
+\contentsline {figure}{\numberline {4.5.3}{\ignorespaces Plot of the axial fermion density as a function of $q_e$, $q_e\in [0,25]$ for different background field values. (A) Massless case $m=0$. (B) Massive Case $m=2.0$.\relax }}{79}{figure.caption.22}
+\contentsline {figure}{\numberline {4.5.4}{\ignorespaces Plot of the order parameters as a function of fermion mass $m\in [0,1]$ for different background field values.The fermion charge $q_e$ is set to $1$. (A) ${"Γ}/q_e$ as a function of $m$. Dotted line at $m/g=0.3$ for reference. (B) ${"Λ}$ as a function of $m$.\relax }}{80}{figure.caption.23}
+\contentsline {figure}{\numberline {4.6.1}{\ignorespaces Quantum quench protocol.\relax }}{81}{figure.caption.24}
+\contentsline {figure}{\numberline {4.6.2}{\ignorespaces Plot of the Loschmidt echo density as a function of time for a quench from the free model to the interacting model. Blue line corresponds to $\mathcal {E}_0=0.0$ . Yellow line corresponds to $\mathcal {E}_0=0.5$.\relax }}{85}{figure.caption.25}
+\contentsline {figure}{\numberline {4.6.3}{\ignorespaces Plot of the density of chiral condensate as a function of time for a quench from the free model to the interacting model. Blue line corresponds to $\mathcal {E}_0=0.0$ . Yellow line corresponds to $\mathcal {E}_0=0.5$.\relax }}{86}{figure.caption.26}
+\contentsline {figure}{\numberline {4.6.4}{\ignorespaces Plot of the Loschmidt echo density as a function of time for a quantum quench between the massless interacting Hamiltonian with $\mathcal {E}_0=0.0$ to the massless interacting Hamiltonian with $\mathcal {E}_0=0.5$.\relax }}{87}{figure.caption.27}
+\contentsline {figure}{\numberline {4.6.5}{\ignorespaces Plot of the order parameters as a function of time for a quantum quench between the massless interacting Hamiltonian with $\mathcal {E}_0=0.0$ to the massless interacting Hamiltonian with $\mathcal {E}_0=0.5$. (A) Axial fermion density. (B) Density of chiral condensate.\relax }}{88}{figure.caption.28}
+\addvspace {10\p@ }

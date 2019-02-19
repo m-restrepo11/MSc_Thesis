@@ -1,0 +1,103 @@
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840) (preloaded format=xelatex 2018.10.29)  16 NOV 2018 00:37
+entering extended mode
+**./dedication.tex
+(dedication.tex
+LaTeX2e <2018-04-01> patch level 5
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \begin{flushright}
+                      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--2
+[] 
+ []
+
+
+Overfull \hbox (11.5pt too wide) in paragraph at lines 3--4
+ \TU/lmr/m/it/10 To
+ []
+
+
+Overfull \hbox (13.04pt too wide) in paragraph at lines 3--4
+ \TU/lmr/m/it/10 my
+ []
+
+
+Overfull \hbox (21.47pt too wide) in paragraph at lines 3--4
+ \TU/lmr/m/it/10 loved
+ []
+
+
+Overfull \hbox (22.49pt too wide) in paragraph at lines 3--4
+ \TU/lmr/m/it/10 ones.
+ []
+
+
+Overfull \hbox (3.86pt too wide) in paragraph at lines 3--4
+ \TU/lmr/m/it/10 I
+ []
+
+
+Overfull \hbox (16.35pt too wide) in paragraph at lines 3--4
+ \TU/lmr/m/it/10 owe
+ []
+
+
+Overfull \hbox (6.39pt too wide) in paragraph at lines 3--4
+ \TU/lmr/m/it/10 it
+ []
+
+
+Overfull \hbox (11.0pt too wide) in paragraph at lines 3--4
+ \TU/lmr/m/it/10 all
+ []
+
+
+Overfull \hbox (8.43001pt too wide) in paragraph at lines 3--4
+ \TU/lmr/m/it/10 to
+ []
+
+
+Overfull \hbox (18.41pt too wide) in paragraph at lines 3--4
+ \TU/lmr/m/it/10 you.
+ []
+
+
+Overfull \hbox (31.19pt too wide) in paragraph at lines 3--4
+ \TU/lmr/m/it/10 Endure
+ []
+
+
+Overfull \hbox (15.84pt too wide) in paragraph at lines 3--4
+ \TU/lmr/m/it/10 and
+ []
+
+
+Overfull \hbox (44.34pt too wide) in paragraph at lines 3--4
+ \TU/lmr/m/it/10 transcend.
+ []
+
+)
+! Emergency stop.
+<*> ./dedication.tex
+                    
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 9 strings out of 429714
+ 154 string characters out of 3180288
+ 55244 words of memory out of 3000000
+ 3982 multiletter control sequences out of 15000+200000
+ 3648 words of font info for 15 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 13i,1n,8p,104b,112s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.
